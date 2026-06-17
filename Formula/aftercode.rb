@@ -1,8 +1,8 @@
 class Aftercode < Formula
   desc "Turn daily AI coding-agent sessions into personalized learning podcasts"
   homepage "https://github.com/ron3899/aftercode"
-  url "https://github.com/ron3899/aftercode/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "cefbab98f12d38ff9a1989ac1acfbf9380a02a2c818d7b777b6c9039e232c821"
+  url "https://github.com/ron3899/aftercode/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "26d829c8d7eb5dc65144eae72a99277e075ab9fe7f695c27ebe005cc47607bf1"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/ron3899/aftercode.git", branch: "main"
 
